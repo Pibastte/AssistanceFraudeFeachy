@@ -3,12 +3,13 @@
 ---------------------------*/
 
 a.fb-message-blue {
+    padding-right: 10px;
     font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
     text-decoration: none;
     color: #fff;
     background-color: #0084ff;
-    border: 1px solid #0084ff;
+    border: 6px solid #0084ff;
     width: 127px;
     height: 35px;
     line-height: 35px;
@@ -22,7 +23,7 @@ a.fb-message-blue {
 
 a.fb-message-blue:hover {
     background-color: #2093ff;
-    border: 1px solid #2093ff;
+    border: 5px solid #2093ff;
     -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
@@ -32,7 +33,7 @@ a.fb-message-blue:hover {
 
 a.fb-message-blue:focus {
     background-color: #0084ff;
-    border: 1px solid #0084ff;
+    border: 5px solid #0084ff;
     -webkit-box-shadow: inset 0px 0px 8px 0px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: inset 0px 0px 8px 0px rgba(0, 0, 0, 0.3);
     box-shadow: inset 0px 0px 8px 0px rgba(0, 0, 0, 0.3);
@@ -46,6 +47,5 @@ a.fb-message-blue:focus {
     top: -1px;
     height: 18px;
     width: 17px;
-    padding: 10px 7px;
-    float: left;
+    padding: 10px 17px;
 }
