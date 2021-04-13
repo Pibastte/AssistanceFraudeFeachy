@@ -2381,7 +2381,7 @@ hr {
 /* Teams */
 
 .team-item {
-    display: block;
+    display: grid;
     text-align: center;
 }
 
